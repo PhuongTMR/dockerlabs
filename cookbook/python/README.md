@@ -9,7 +9,7 @@
 
 
 
-## Installing Python3 on Ubuntu 18.04
+## Installing Python on Ubuntu 18.04
 
 ```
 apt install python3
