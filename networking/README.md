@@ -1,6 +1,6 @@
 # Designing Scalable, Portable Docker Container Networks
 
-## What You Will Learn
+## What You'll Learn
 
 Docker containers wrap a piece of software in a complete filesystem that contains everything needed to run: code, runtime, system tools, system libraries – anything that can be installed on a server. This guarantees that the software will always run the same, regardless of its environment. By default, containers isolate applications from one another and the underlying infrastructure, while providing an added layer of protection for the application. 
 
