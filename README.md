@@ -21,8 +21,8 @@ If this repo helped you in your Docker journey, please star it! ⭐
 
 # 📝 Join our Community
 
-- Join 9000+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
-- Join 2300+ [Discord members](https://discord.gg/QEkCXAXYSe)
+- Join 10000+ DevOps Engineers today via [Community Slack](https://launchpass.com/collabnix)
+- Join 3000+ [Discord members](https://discord.gg/QEkCXAXYSe)
 - Fork, Contribute & Share via [DockerLabs GITHUB Repository](https://github.com/collabnix/dockerlabs)
 -  Click and Follow us over Twitter [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/fold_left.svg?style=social&label=Follow%20%40collabnix)](https://twitter.com/collabnix)
 
