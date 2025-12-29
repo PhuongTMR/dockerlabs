@@ -1,4 +1,4 @@
-# Curated List of Docker for Mac Tutorials
+## Curated List of Docker for Mac Tutorials
 
 
 [Docker for Mac is built with LinuxKit. How to access the LinuxKit VM](https://github.com/ajeetraina/docker101/blob/master/for-mac/linuxkit.md)<br>
