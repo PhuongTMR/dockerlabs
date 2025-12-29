@@ -71,15 +71,6 @@ If this repo helped you in your Docker journey, please star it! ⭐
 | [Compose Profile](https://github.com/ajeetraina/compose-demos/blob/main/wordpress/profile/README.md) | Compose, Profile, Staging, Prod | Developer Tools | 1 |
 
 
-## Industry Use cases
-
-| Title       | Topics Covered         | Labs |
-|:-------------|:------------------|:------|
-| [Docker for AI](https://www.docker.com/products/ai-ml-development/) | [Docker for Data Scientist](https://docker.devpost.com/project-gallery) | 1 |
-| [Docker for Leading IDEs](https://www.docker.com/products/ide/) | Developer IDEs | Not Started|
-| [Docker for Financial Service](https://collabnix.com/5-benefits-of-docker-for-the-finance-and-operations/) | - | Not Started|
-| [Docker for Healthcare](https://collabnix.com/5-benefits-of-docker-for-the-healthcare-industry/) | - | Not Started|
-
 ## Containerd Blogs & Resources
 
 
